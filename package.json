@@ -1,11 +1,11 @@
 {
-  "name": "file-exits",
+  "name": "file-exists-helper",
   "version": "0.0.1",
   "description": "Check if a file exists",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liugenpeng/file-exits.git"
+    "url": "git+https://github.com/liugenpeng/file-exists-helper.git"
   },
   "keywords": [
     "nodejs",
@@ -15,7 +15,7 @@
   "author": "liugenpeng",
   "license": "ISC",
   "bugs": {
-      "url": "https://github.com/liugenpeng/file-exits/issues"
+      "url": "https://github.com/liugenpeng/file-exists-helper/issues"
   },
-  "homepage": "https://github.com/liugenpeng/file-exits#readme"
+  "homepage": "https://github.com/liugenpeng/file-exists-helper#readme"
 }
