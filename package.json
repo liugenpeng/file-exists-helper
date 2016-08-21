@@ -1,0 +1,21 @@
+{
+  "name": "file-exits",
+  "version": "0.0.1",
+  "description": "Check if a file exists",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liugenpeng/file-exits.git"
+  },
+  "keywords": [
+    "nodejs",
+    "exists",
+    "file"
+  ],
+  "author": "liugenpeng",
+  "license": "ISC",
+  "bugs": {
+      "url": "https://github.com/liugenpeng/file-exits/issues"
+  },
+  "homepage": "https://github.com/liugenpeng/file-exits#readme"
+}
